@@ -26,6 +26,6 @@ PROPER MOTIONS WITH 2MASS, PPMXL, AND Pan-STARRS](https://iopscience.iop.org/art
   
   
 ## Result:  
-The main [sequence](https://en.wikipedia.org/wiki/Main_sequence) I find is as below : 
-<div align=center><img width="450" height="300" src="https://github.com/ITCUI-XJTLU/A-Journey-to-Help-Finding-the-Members-of-the-Praesepe-Star-Cluster/raw/main/mian_sequence.png"/></div>  
+The [main sequence](https://en.wikipedia.org/wiki/Main_sequence) I find is as below : 
+<div align=center><img width="450" height="300" src="https://github.com/ITCUI-XJTLU/A-Journey-to-Help-Finding-the-Members-of-the-Praesepe-Star-Cluster/raw/main/mian_seqence.png"/></div>  
 
